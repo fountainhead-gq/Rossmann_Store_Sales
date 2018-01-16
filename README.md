@@ -2,11 +2,11 @@
 
 
 
-kaggle fo rossmann store sales  link: [rossmann-store-sales](https://www.kaggle.com/c/rossmann-store-sales)
+kaggle for rossmann store sales :  [rossmann-store-sales](https://www.kaggle.com/c/rossmann-store-sales)
 
 ###  Evaluation:
 
-$$\textrm{RMSPE} = \sqrt{\frac{1}{n} \sum_{i=1}^{n} \left(\frac{y_i - \hat{y}_i}{y_i}\right)^2}$$
+$\textrm{RMSPE} = \sqrt{\frac{1}{n} \sum_{i=1}^{n} \left(\frac{y_i - \hat{y}_i}{y_i}\right)^2}$
 
 
 
